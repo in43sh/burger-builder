@@ -4,7 +4,6 @@ import Cheese from './Cheese/Cheese';
 import Meat from './Meat/Meat';
 import Salad from './Salad/Salad';
 
-
 function Burger(props) {
     // destructuring keys of props.ingridients into 4 variables: salad, meat, cheese, bacon
     // props.ingridients comes from state.ingredients of component App.js
